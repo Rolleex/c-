@@ -1,0 +1,6 @@
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.exe.config
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.exe
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\bin\Debug\Planner.pdb
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.csprojResolveAssemblyReference.cache
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.exe
+c:\users\rolleex\documents\visual studio 2015\Projects\Planner\Planner\obj\Debug\Planner.pdb
